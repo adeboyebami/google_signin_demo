@@ -81,15 +81,15 @@ a {
 }
 
 #create-account {
-  background-color: transparent;
-  color: #1a73e8;
+  background-color: #8f4e2c;
+  color: #fdfdfd;
   font-size: 14px;
   padding-left: 0;
 }
 
 #create-account:hover {
-  background-color: #f5faff;
-}
+  background-color: #0d6ae3;
+  }
 
 #next {
   background-color: #1a73e8;
