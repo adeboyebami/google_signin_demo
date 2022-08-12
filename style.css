@@ -6,6 +6,7 @@
   padding: 40px;
   border: 1px solid rgb(210, 210, 210);
   border-radius: 10px;
+  font-family: roboto,"Noto Sans Myanmar UI",arial,sans-serif;
 
   /* flex */
   display: flex;
@@ -55,6 +56,7 @@ input {
 .help {
   padding-top: 40px;
   color: grey;
+  font-size: small;
 }
 
 a {
