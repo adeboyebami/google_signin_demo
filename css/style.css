@@ -45,6 +45,13 @@ input {
   margin-top: 35px;
 }
 
+span {
+  font-size: 12px;
+  padding-top: 10px;
+  color: crimson;
+  display: none;
+}
+
 .link {
   padding-top: 10px;
 }
